@@ -108,7 +108,7 @@ export default function About() {
 
               <p className="text-muted-foreground leading-relaxed text-sm sm:text-base text-center lg:text-left">
                 I&apos;m detail-oriented Computer Science graduate
-                at Kommuri Pratap Reddi Institute of Technology, specializing in
+                at Kommuri Pratap Reddy Institute of Technology, specializing in
                 AI &amp; ML. With hands-on expertise in Machine Learning, Data Science,
                 AI integration, and collaborative software engineering using
                 GitHub, I&apos;m passionate about innovation and real-world
