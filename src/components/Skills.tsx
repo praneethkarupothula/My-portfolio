@@ -47,6 +47,7 @@ const skillCategories = [
       { name: "VADER", icon: SiPython, color: "#3776ab" },
       { name: "XGBoost", icon: SiPython, color: "#f7931e" },
       { name: "Spacy", icon: SiPython, color: "#f7931e" },
+      { name: "RAG", icon: SiPython, color: "#f7931e" },
     ],
   },
   {

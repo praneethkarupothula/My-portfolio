@@ -31,7 +31,7 @@ export default function Home() {
         <div className="section-divider" />
         <Education />
         <div className="section-divider" />
-        
+
         <Projects />
         <div className="section-divider" />
         <Certifications />

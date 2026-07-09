@@ -201,7 +201,7 @@ export default function Hero() {
                     <div className="w-full h-full rounded-full overflow-hidden relative">
                       <Image
                         src="/images/profile.png?v=2"
-                        alt="Reddi Lakshmi Narasimha"
+                        alt="Karupothula Praneeth"
                         fill
                         className="object-cover object-top"
                         priority

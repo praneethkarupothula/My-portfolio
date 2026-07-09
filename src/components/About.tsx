@@ -92,13 +92,13 @@ export default function About() {
                     </span>
                     <span className="text-foreground">,</span>
                   </p>
-                  <p className="pl-4">
+                  {/* <p className="pl-4">
                     <span className="text-rose-600 dark:text-rose-400">motto</span>
                     <span className="text-foreground">:</span>{" "}
                     <span className="text-green-600 dark:text-green-400">
                       &quot;Code. Create. Impact.&quot;
                     </span>
-                  </p>
+                  </p> */}
                   <p>
                     <span className="text-yellow-600 dark:text-yellow-400">{"}"}                    </span>
                     <span className="text-foreground">;</span>
@@ -107,7 +107,7 @@ export default function About() {
               </div>
 
               <p className="text-muted-foreground leading-relaxed text-sm sm:text-base text-center lg:text-left">
-                I&apos;m a dynamic and detail-oriented Computer Science student
+                I&apos;m detail-oriented Computer Science graduate
                 at Kommuri Pratap Reddi Institute of Technology, specializing in
                 AI &amp; ML. With hands-on expertise in Machine Learning, Data Science,
                 AI integration, and collaborative software engineering using

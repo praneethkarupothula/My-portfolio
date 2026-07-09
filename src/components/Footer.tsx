@@ -61,11 +61,7 @@ export default function Footer() {
         {/* Bottom */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-3 sm:gap-4 text-xs sm:text-sm text-muted-foreground">
           <p>
-            &copy; {currentYear} Reddi Lakshmi Narasimha. All rights reserved.
-          </p>
-          <p className="flex items-center gap-1">
-            Crafted with <FaHeart className="text-red-500 text-xs" /> using
-            Next.js & Tailwind CSS
+            &copy; {currentYear} Karupothula Praneeth. All rights reserved.
           </p>
         </div>
       </div>
