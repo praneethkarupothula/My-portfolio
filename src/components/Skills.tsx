@@ -37,17 +37,18 @@ const skillCategories = [
       { name: "Scikit-learn", icon: SiPython, color: "#f7931e" },
       { name: "Pandas", icon: SiPython, color: "#150458" },
       { name: "NumPy", icon: SiPython, color: "#013243" },
+      { name: "VADER", icon: SiPython, color: "#3776ab" }
     ],
   },
   {
-    title: "NLP & AI",
+    title: "Generative AI",
     icon: "🧠",
     skills: [
-      { name: "NLTK", icon: SiPython, color: "#3776ab" },
-      { name: "VADER", icon: SiPython, color: "#3776ab" },
-      { name: "XGBoost", icon: SiPython, color: "#f7931e" },
-      { name: "Spacy", icon: SiPython, color: "#f7931e" },
+      { name: "Transformers", icon: SiPython, color: "#3776ab" },
+      { name: "Langchain", icon: SiPython, color: "#f7931e" },
+      { name: "LLM", icon: SiPython, color: "#f7931e" },
       { name: "RAG", icon: SiPython, color: "#f7931e" },
+      { name: "LangGraph", icon: SiPython, color: "#3776ab" }
     ],
   },
   {

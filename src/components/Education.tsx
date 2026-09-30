@@ -11,7 +11,7 @@ const education = [
     degree: "Bachelor of Technology (CSE – AI & ML)",
     institution: "Kommuri Pratap Reddy Institute of Technology",
     period: "2022 – 2026",
-    grade: "CGPA: 9.17",
+    grade: "CGPA: 9.14",
     icon: "🎓",
   },
   {

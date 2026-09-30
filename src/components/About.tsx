@@ -19,7 +19,7 @@ const highlights = [
   },
   {
     icon: HiOutlineAcademicCap,
-    title: "9.17 CGPA",
+    title: "9.14 CGPA",
     description: "Strong academic foundation in Computer Science (AI & ML)",
   },
   {

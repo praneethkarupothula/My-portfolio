@@ -5,16 +5,12 @@ import { ThemeProvider } from "@/components/ThemeProvider";
 export const metadata: Metadata = {
   title: "Karupothula Praneeth | AI/ML Developer",
   description:
-    "Portfolio of Karupothula Praneeth – AI/ML Developer, Data Scientist, and AI Enthusiast. Building scalable AI solutions and predictive models.",
+    "Portfolio of Karupothula Praneeth – AI/ML Developer. Building scalable AI solutions and predictive models.",
   keywords: [
     "Karupothula Praneeth",
     "AI/ML Developer",
-    "Data Scientist",
     "Machine Learning",
-    "Python",
-    "TensorFlow",
-    "NLP",
-    "Portfolio",
+    "Python"
   ],
   authors: [{ name: "Karupothula Praneeth" }],
   openGraph: {

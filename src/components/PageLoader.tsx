@@ -108,7 +108,7 @@ const codeLines = [
   { text: "const developer = {", color: "text-purple-400", indent: 0 },
   { text: 'name: "Karupothula Praneeth",', color: "text-green-400", indent: 1 },
   { text: 'role: "AI/ML Developer",', color: "text-green-400", indent: 1 },
-  { text: 'stack: ["Python", "TensorFlow", "NLP"],', color: "text-yellow-400", indent: 1 },
+  { text: 'stack: ["Python", "ML", "NLP", "RAG"],', color: "text-yellow-400", indent: 1 },
   { text: "};", color: "text-purple-400", indent: 0 },
 ];
 
